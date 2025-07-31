@@ -37,7 +37,7 @@ Salary Prediction Model
  How to Run
  1. Clone the repository:
    git clone https://github.com/Shoaib-2007/salary-prediction.git
-   cd salary-prediction
+  cd salary-prediction
  2. Install dependencies:
    pip install -r requirements.txt
  3. Run the Jupyter notebooks or Python scripts in the src/ directory.

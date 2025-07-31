@@ -36,7 +36,7 @@ Salary Prediction Model
  requirements.txt
  How to Run
  1. Clone the repository:
-   git clone https://github.com/Shoaib-2007/IBM-PROJECT.git
+   git clone https://github.com/Shoaib-2007/Salary_Prediction_Model.git
   cd salary-prediction
  2. Install dependencies:
    pip install -r requirements.txt
